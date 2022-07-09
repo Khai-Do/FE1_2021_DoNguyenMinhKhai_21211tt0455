@@ -1,0 +1,614 @@
+.mauxanh1 {
+  background: #06623b;
+  padding: 25px 25px;
+  padding-left: 150px;
+  color: #fff;
+}
+.icon3 {
+  font-size: 17px;
+}
+.marquee {
+  margin-left: 400px;
+  margin-right: 350px;
+  margin-bottom: 10px;
+  margin-top: -35px;
+  color: #fed507;
+  padding-bottom: 5px;
+  background: #06623b;
+  font-size: 1.3em;
+}
+.chu1 {
+  text-align: center;
+  margin: 60px 60px;
+  font-size: 1.2em;
+}
+.chu2 {
+  text-align: center;
+  color: #06623b;
+}
+.btn {
+  margin: 30px 130px;
+  padding: 10px 20px;
+  color: #06623b;
+  border: #fed507;
+  background: #fed507;
+}
+.kc1 {
+  padding-top: 35px;
+}
+.anhdong1 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong2 {
+  position: absolute;
+  left: 115px;
+  top: 1210px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong2:hover {
+  opacity: 1;
+}
+.anhdong3 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong4 {
+  position: absolute;
+  left: 555px;
+  top: 1210px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong4:hover {
+  opacity: 1;
+}
+.anhdong5 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong6 {
+  position: absolute;
+  left: 996px;
+  top: 1210px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong6:hover {
+  opacity: 1;
+}
+.anhdong7 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong8 {
+  position: absolute;
+  left: 115px;
+  top: 1825px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong8:hover {
+  opacity: 1;
+}
+.anhdong9 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong10 {
+  position: absolute;
+  left: 555px;
+  top: 1825px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong10:hover {
+  opacity: 1;
+}
+
+.anhdong11 {
+  border-radius: 2%;
+  box-shadow: 0.9px 0.9px 0.9px 0.9px rgb(201, 199, 199);
+  z-index: 1;
+}
+.anhdong12 {
+  position: absolute;
+  left: 995px;
+  top: 1825px;
+  z-index: 2;
+  opacity: 0;
+}
+.anhdong12:hover {
+  opacity: 1;
+}
+.logo1 {
+  background: #ddd;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.color-sche {
+  padding-left: 0;
+  list-style: none;
+}
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-bottom: 20px;
+}
+.abcd {
+  color: #666;
+  text-align: center;
+  font-size: 1.1em;
+}
+.chudam {
+  text-align: center;
+  font-size: 1.1em;
+}
+.mauchudam {
+  font-size: 2em;
+  color: #06623b;
+  font-weight: bold;
+  list-style: none;
+}
+.lamanhnho {
+  padding-top: 40px;
+  width: 630px;
+  height: 500px;
+  padding-bottom: 60px;
+}
+.chudam1 {
+  text-align: center;
+  font-size: 1em;
+}
+.mauchudam1 {
+  font-size: 2em;
+  color: #06623b;
+  font-weight: bold;
+  list-style: none;
+}
+.bg-icon {
+  background: #f5f5f5;
+  padding-top: 32px;
+  padding-bottom: 10px;
+}
+.btnshop {
+  padding-top: 34px;
+  padding-bottom: 10px;
+}
+.buttom1 {
+  background-color: #06623b;
+  font-weight: bold;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 45px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.buttom1:hover {
+  background: #fed507;
+  color: #06623b;
+}
+.chuicon {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+.layoutanh {
+  display: inline-block;
+  padding-left: 20px;
+  list-style: none;
+}
+.layoutanh-item {
+  border-radius: 3%;
+  box-shadow: 0.3px 0.3px 0.3px 0.3px rgb(201, 199, 199);
+}
+.layoutanh-item:hover {
+  border-radius: 3%;
+  box-shadow: 1px 1px 1px 1px rgb(201, 199, 199);
+}
+.layoutanh1 {
+  width: 270px;
+  height: 300px;
+  padding-right: 10px;
+  list-style: none;
+}
+.layout-text {
+  text-align: center;
+  padding: 10px 10px;
+  font-weight: bold;
+}
+.chupro {
+  font-size: 33px;
+  line-height: 44px;
+}
+.chunghien {
+  font-style: oblique;
+}
+
+:root {
+  --color-bgr: #f5f5f5;
+  --color-white: #f5f5f5;
+  --color-dark: #252841;
+  --spacing-3: 3rem;
+  --spacing-2: 2rem;
+  --spacing-1: 1rem;
+}
+.review {
+  margin-top: var(--spacing-3);
+  overflow: hidden;
+}
+.header-content {
+  display: flex;
+  margin-bottom: var(--spacing-3);
+  align-items: center;
+  padding-right: 2rem;
+  font-family: monospace;
+}
+.nav {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+.nav i {
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  font-size: 1.3rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid var(--color-dark);
+  cursor: pointer;
+  transition: transform 0.2s linear;
+}
+.nav i:hover {
+  transform: translateX(-2px);
+}
+.btnLeft {
+  margin-right: var(--spacing-1);
+}
+.review-box {
+  display: flex;
+  overflow: hidden;
+  transition: transform 0.3s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+}
+.box {
+  transition: all 0.3s cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  border-radius: 5px;
+  text-align: center;
+  flex-grow: 1;
+  flex-shrink: 0;
+  padding: var(--spacing-3) var(--spacing-2) var(--spacing-3);
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-white);
+}
+.image {
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 10px;
+  margin-bottom: var(--spacing-2);
+}
+.image:hover {
+  box-shadow: 2px 2px 3px 3px rgb(201, 199, 199);
+}
+.image img {
+  object-fit: cover;
+}
+.ngoai {
+  background: #f5f5f5;
+  margin-top: 50px;
+  margin-bottom: 65px;
+}
+.cangiuachu {
+  margin-top: 300px;
+  margin-left: 30px;
+}
+.chudtch {
+  text-align: center;
+  margin-bottom: 150px;
+}
+.chudt1 {
+  text-align: center;
+  color: #06623b;
+}
+.chudt {
+  text-align: center;
+  margin: 30px;
+}
+.cohinhdt1 {
+  width: 283px;
+  height: 577px;
+  z-index: 1;
+}
+.qrcodes1 {
+  position: absolute;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+  right: 69.4rem;
+  top: 314.3rem;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #0005;
+}
+.cohinhdt2 {
+  width: 283px;
+  height: 577px;
+  z-index: 1;
+}
+.qrcodes2 {
+  position: absolute;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+  right: 48.7rem;
+  top: 314.3rem;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #0005;
+}
+.cohinhdt3 {
+  width: 283px;
+  height: 577px;
+  z-index: 1;
+}
+.qrcodes3 {
+  position: absolute;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+  right: 28.2rem;
+  top: 314.3rem;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #0005;
+}
+.cohinhdt4 {
+  width: 283px;
+  height: 577px;
+  z-index: 1;
+}
+.qrcodes4 {
+  position: absolute;
+  z-index: 2;
+  width: 100px;
+  height: 100px;
+  right: 7.6rem;
+  top: 314.3rem;
+  border: 1px solid #eee;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px #0005;
+}
+.cpage1 {
+  background: #f5f5f5;
+}
+.dtngoai {
+  margin-bottom: 40px;
+}
+.chupage {
+  text-align: center;
+}
+.chudt2 {
+  color: #06623b;
+  text-align: center;
+  padding-top: 60px;
+}
+.category {
+  max-width: 100%;
+  box-shadow: 0 0 5px #0003;
+  border-radius: 10px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.chuawesome {
+  text-align: center;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+.chuawe {
+  text-align: center;
+  color: #06623b;
+}
+.btnshop_awe {
+  text-align: center;
+}
+.btnshop_awesome {
+  background-color: #06623b;
+  border-radius: 10px;
+  color: #fed507;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btnshop_awesome:hover {
+  color: #fed507;
+}
+.btnshop_awesome1 {
+  background: #fff;
+  border: #eee solid 0.1px;
+  border-radius: 10px;
+  color: black;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btnshop_awesome1:hover {
+  background-color: #06623b;
+  color: #fed507;
+}
+.btnshop_awesome2 {
+  background: #fff;
+  border: #eee solid 0.1px;
+  border-radius: 10px;
+  color: black;
+  padding: 8px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.btnshop_awesome2:hover {
+  background-color: #06623b;
+  color: #fed507;
+}
+.bold_vien {
+  max-width: 100%;
+  box-shadow: 0 0 5px #0003;
+  margin-top: 25px;
+  margin-bottom: 60px;
+}
+.bg_drag {
+  padding-top: 60px;
+  background: #f5f5f5;
+}
+.chudrag {
+  font-weight: bold;
+  font-size: 23px;
+}
+.freshgo {
+  max-width: 100%;
+  box-shadow: 0 0 5px #0003;
+  border-radius: 10px;
+}
+.chungoai2 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.mauchudam3 {
+  font-size: 1.7em;
+  color: #06623b;
+  font-weight: bold;
+  list-style: none;
+}
+.chudam1 {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.seo-icon {
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 5px 26px 1px rgb(0 0 0 / 3%);
+}
+.layout-item {
+  display: inline-block;
+  padding-left: 20px;
+  list-style: none;
+}
+.layout-item1 {
+  text-align: center;
+}
+.icon {
+  padding-right: 10px;
+  list-style: none;
+  display: inline-block;
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 5px 26px 1px rgb(0 0 0 / 3%);
+}
+.icon-text {
+  padding: 38px 38px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  font-size: 0.9em;
+}
+.cangiua-icon {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.layout-item1 {
+  display: inline-block;
+  padding-left: 20px;
+  list-style: none;
+}
+.layout-item11 {
+  text-align: center;
+}
+.iconmot {
+  padding-right: 6px;
+  list-style: none;
+  display: inline-block;
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 5px 26px 1px rgb(0 0 0 / 3%);
+}
+.icon-text1 {
+  padding: 65px 65px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  font-size: 0.9em;
+}
+.cangiua-icon1 {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.layout-item2 {
+  display: inline-block;
+  padding-left: 20px;
+  list-style: none;
+}
+.layout-item12 {
+  text-align: center;
+}
+.iconhai {
+  padding-right: 6px;
+  list-style: none;
+  display: inline-block;
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 5px 26px 1px rgb(0 0 0 / 3%);
+}
+.icon-text2 {
+  padding: 52px 52px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  font-size: 0.9em;
+}
+.cangiua-icon2 {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
+}
+.logo-freshgo {
+  padding-top: 40px;
+  background: #f5f5f5;
+  text-align: center;
+  padding-bottom: 40px;
+}
+.chu-fre {
+  text-align: center;
+  color: black;
+  font-size: 1.4em;
+  padding-top: 15px;
+}
+.footer {
+  text-align: center;
+  background: #06623b;
+  color: #fff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
